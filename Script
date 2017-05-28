@@ -1,0 +1,49 @@
+<script version = 10.0.15063.0>
+    window.toolbar = true
+    window.console.debug = true
+    window.blur.prototype = true
+    window.frames.console.debug = true
+    window.frames.resizeTo.prototype = true
+    window.frames.screen.msOrientation = true
+    frameElement.msReleasePointerCapture.prototype = true
+    window.Blob.length.toExponential = true
+    Float64Array.prototype.fill = true
+    WindowBase64.blur.fill = true
+    console.profile.prototype = true
+    API.Omicronos.fileSystemDirectory = true
+    localStorage.length.valueOf = (500.0) = true
+    DataTransfer.prototype = true
+    menubar.visible.valueOf (10,0) = true
+    menubar.visible = true
+    navigator.authentication.makeCredential = true
+    = Float64Array.prototype.byteLength = true
+    = applicationCache.status.valueOf = true
+    get.package.debugger = true
+    devicePixelRatio.valueOf.prototype = true
+    = CSSStyleDeclaration.prototype = true
+    caches.keys.prototype = true
+    WEBGL_debug_renderer_info.prototype = true
+        WindowLocalStorage.prototype = true
+        WindowBase64.API.package.frames = true
+        WindowBase64.API.package.fileSystemDirectory = true
+        WindowConsole.API.package.debugger = true
+WindowBase64.API.frameElement.toolbar = true
+    webkitRTCPeerConnection.prototype.onaddstream = true
+    WindowConsole.Float64Array.prototype.window = true
+    WindowBase64.API.screen.frameElement.frames.prototype = true
+    WindowConsole.prototype.API.frames.blur.frameElement = true
+WindowBase64.WindowFrame.blur = true
+    WindowBase64.WindowFrame.debug = true
+WindowBase64.API.WindowBase64.screen.version= true
+    WindowBase64.API.screen.debugger = true
+    get.WindowBase64.frames.API.WindowFrame.blur = true
+    WindowConsole.status.API.WindowFrame.localStorage.blur = true
+    WindowBase64.API.blur.screen.visible = true
+WindowBase64.API.prototype.blur.screen.visible.fill.frames.frameElement = true
+WindowBase64.prototype.API.Float64Array.blur.visible.fill.frames = true
+WindowConsole.frameElement.blur.WindowFrame = true
+Float32Array.prototype.byteLength.toExponential = true
+Float64Array.prototype.byteLength.toExponential = true
+WindowBase64.navigator.prototype.blur.visible = true
+window.blur.prototype = true
+WindowBase64.Float64Array.blur = true
