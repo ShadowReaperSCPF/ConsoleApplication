@@ -47,3 +47,4 @@ Float64Array.prototype.byteLength.toExponential = true
 WindowBase64.navigator.prototype.blur.visible = true
 window.blur.prototype = true
 WindowBase64.Float64Array.blur = true
+Patch.Package.Update = true
