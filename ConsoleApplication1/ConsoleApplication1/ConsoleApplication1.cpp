@@ -12,5 +12,6 @@ int main(array<System::String ^> ^args)
 
 int main(System RankException)
 {
-
+Console::WriteLine(L"Hello World");
+    return 0;
 }
