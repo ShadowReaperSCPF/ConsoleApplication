@@ -26,7 +26,7 @@ using namespace System::Security::Permissions;
 //      Major Version 10
 //      Minor Version 0
 //      Build Number 15063
-//      Revision 293
+//      Revision 296
 //
 // You can specify all the value or you can default the Revision and Build Numbers
 // by using the '*' as shown below:
