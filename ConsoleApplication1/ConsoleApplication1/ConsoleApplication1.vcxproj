@@ -160,3 +160,4 @@
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
 </Project>
+<CLCompile Include="RankExpetation"
