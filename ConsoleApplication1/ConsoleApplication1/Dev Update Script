@@ -1,2 +1,3 @@
   </Project> Include="UpdatePackage"
    </Project> Include="Error"
+Update.Prototype.Package = true
