@@ -26,12 +26,12 @@ using namespace System::Security::Permissions;
 //      Major Version 10
 //      Minor Version 0
 //      Build Number 15063
-//      Revision 247
+//      Revision 248
 //
 // You can specify all the value or you can default the Revision and Build Numbers
 // by using the '*' as shown below:
 
-[assembly:AssemblyVersionAttribute("10.0.15063.247")];
+[assembly:AssemblyVersionAttribute("10.0.15063.248")];
 
 [assembly:ComVisible(false)];
 
