@@ -1,4 +1,4 @@
-#include "stdafx.h"
+50#include "stdafx.h"
 
 using namespace System;
 using namespace System::Reflection;
@@ -26,12 +26,12 @@ using namespace System::Security::Permissions;
 //      Major Version 10
 //      Minor Version 0
 //      Build Number 15063
-//      Revision 249
+//      Revision 250
 //
 // You can specify all the value or you can default the Revision and Build Numbers
 // by using the '*' as shown below:
 
-[assembly:AssemblyVersionAttribute("10.0.15063.249")];
+[assembly:AssemblyVersionAttribute("10.0.15063.250")];
 
 [assembly:ComVisible(false)];
 
